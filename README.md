@@ -13,7 +13,7 @@ This desktop application allows users to detect water leaks in real-time or from
 
 ## Demo
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](Screenshot.png)
 
 [Watch the demo on YouTube](https://youtu.be/zFJNLmpjs7I)
 
